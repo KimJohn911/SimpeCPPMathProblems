@@ -1,1 +1,1 @@
-# SimpeCPPMathProblems
+# SimpleCPPMathProblems
